@@ -1,0 +1,16 @@
+System Architecture
+Frontend: Simple Web UI / Chat Interface
+Backend: Python + AI Model
+Database: User queries and history
+UI Design
+Login Page
+Chat Screen (like ChatGPT)
+Dashboard with Study Plan
+Resources Page
+Workflow
+Student asks doubt
+AI processes query
+AI returns answer + related videos + notes
+Prototype Tools
+Figma for UI design
+Flowchart for workflow
